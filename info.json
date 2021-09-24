@@ -1,0 +1,26 @@
+{
+    "name": "Andrew McLean",
+    "website": "https://itsreallydrew.github.io/",
+    "linkedin": "https://www.linkedin.com/in/iamandrewmclean/",
+    "github": "itsreallydrew",
+    "email": "a.mclean2526@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Git",
+        "Node",
+        "Express",
+        "Mongodb",
+        "Github",
+        "Python",
+        "Django",
+        "Wordpress",
+        "GIMP"
+    ],
+    "otherSkills": [
+        "Persuasion",
+        "Negotiation",
+        "Mediation"
+    ]
+}
